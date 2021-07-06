@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋 I'm Anshul 👨‍💻
+
+
+A Java developer from Bengaluru, India. 
+
+Connect with me on 
+
+- [![Twitter](https://img.shields.io/twitter/follow/_anshulkhare?style=social)](https://twitter.com/_anshulkhare)
+- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshulkhare/)
 
 <!--
 **anshulkhare7/anshulkhare7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
