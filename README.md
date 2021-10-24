@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Anshul 👨‍💻
 
 
-A Java developer from Bengaluru, India. 
+A software developer from Bengaluru, India. 
 
 Connect with me on 
 
