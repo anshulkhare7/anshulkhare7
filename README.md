@@ -47,10 +47,18 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer" title="Google Cloud Platform"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
 </a> 
+<a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer" title="Digital Ocean"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg"  alt="digital ocean" width="40" height="40"/> 
+</a> 
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer" title="Raspberry Pi">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> 
 </a>
-
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer" title="Anaconda">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</a>
           
 <!--
 **anshulkhare7/anshulkhare7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
