@@ -5,7 +5,7 @@
 <p align="left"> <img style="display: none;" src="https://komarev.com/ghpvc/?username=anshulkhare7" alt="anshulkhare" /> </p>
 
 - 👨‍💻 I’m a freelance software developer from Bengaluru, India. 
-- 📝 I regularly write articles on [Substack](https://anshulkhare.substack.com/)
+- 📝 I infrequently write articles on [Substack](https://anshulkhare.substack.com/)
 - 📫 How to reach me **anshulkhare7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
