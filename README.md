@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anshul Khare</h1>
-<h3 align="center">Designer. Writer.</h3>
+<h3 align="center">Programmer. Writer.</h3>
 
 <p align="left"> <img style="display: none;" src="https://komarev.com/ghpvc/?username=anshulkhare7" alt="anshulkhare" /> </p>
 
